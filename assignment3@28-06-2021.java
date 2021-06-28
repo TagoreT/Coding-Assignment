@@ -1,3 +1,4 @@
+//Program to check Vowel or Constant using Switch Casse
 import java.util.Scanner;
 
 class ass3
